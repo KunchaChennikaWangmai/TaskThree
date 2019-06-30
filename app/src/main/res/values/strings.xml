@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TaskThree</string>
+    <string-array name="Forces">
+        <item>Avon and Somerset Constabulary</item>
+        <item>Bedfordshire Police</item>
+        <item>Cambridgeshire Constabulary</item>
+        <item>Cheshire Constabulary</item>
+        <item>City of London Police</item>
+        <item>Cleveland Police</item>
+        <item>Cumbria Constabulary</item>
+        <item>Derbyshire Constabulary</item>
+        <item>Devon and Cornwall Police</item>
+        <item>Dorset Police</item>
+        <item>Durham Constabulary</item>
+        <item>Dyfed-Powys Police</item>
+        <item>Essex Police</item>
+        <item>Glouchestershire Constabulary</item>
+        <item>Greater Manchester Police</item>
+        <item>Gwent Police</item>
+        <item>Hampshire constabulary</item>
+        <item>Hertfordshire Constabulary</item>
+        <item>Humberside Police</item>
+        <item>Kent Police</item>
+        <item>Lancashire Constabulary</item>
+        <item>Leicestershire Police</item>
+        <item>Lincolnshire Police</item>
+        <item>Merseyside Police</item>
+        <item>Metropolitan Police</item>
+        <item>Norfolk Constabulary</item>
+        <item>North Wales Police</item>
+        <item>North Yorkshire Police</item>
+        <item>Northamptonshire Police</item>
+        <item>Northumbria Police</item>
+        <item>Nottinghamshire Police</item>
+        <item>Police Service of Northern Ireland</item>
+        <item>South Wales Police</item>
+        <item>South Yorkshire Police</item>
+        <item>Stafford Police</item>
+        <item>Sufflock Constabulary</item>
+        <item>Surrey Police</item>
+        <item>Sussex Police</item>
+        <item>Thames Valley Police</item>
+        <item>Warwickshire Police</item>
+        <item>West Mercia Police</item>
+        <item>West Midlands Police</item>
+        <item>West Yorkshire Police</item>
+        <item>Wiltshire Police</item>
+    </string-array>
+</resources>
